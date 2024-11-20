@@ -7,4 +7,4 @@ Given a raw dataset of the passengers on the titanic ship to build a model that 
 - Renamed the survived column as it was mispelled.
 - Coverted the sex column to a string rather that an integer
   
-The end output is a clean dataset I think that can be used to build the model
+The end output is a clean dataset I think that can be used to build the model.
